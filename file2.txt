@@ -1,1 +1,2 @@
 second document
+this line is new
